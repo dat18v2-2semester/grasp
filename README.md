@@ -1,1 +1,2 @@
-# grasp
+# Grasp
+## Designing objects with Responsibilities
