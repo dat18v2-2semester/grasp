@@ -3,10 +3,10 @@
 
 
 ## Grasp Principles we will work with
-* Controller
 * Creator
-* High Cohesion
 * Low Coupling
+* Controller
+* High Cohesion
 * Polymorphsm
 * Pure Fabrication
 * Information Expert
