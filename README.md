@@ -1,5 +1,5 @@
 # Grasp
-## Designing objects with Responsibilities
+> Designing objects with Responsibilities
 
 
 ## Grasp Principles we will work with
