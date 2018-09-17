@@ -14,6 +14,6 @@ Assign the responsibility to the Class that has the information to fulfill it.
 
 A Customer wants to know the current total of items in the shoppingcard. What object has the information?
 
-![]()
+![](/img/information_expert.png)
 
 
