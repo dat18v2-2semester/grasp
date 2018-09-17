@@ -9,3 +9,36 @@
 * B closely uses A.
 * B has the initializing data that will be passed to A when it is created (thus B is an Expert with respect to creating A).
 
+## Example
+> Who is responsible of creating the object?
+
+![]()
+
+
+
+
+````     
+public class Page {
+
+    private String content;
+
+    public void addContent(String content){
+        this.content = this.content + " " + content;
+    }
+}
+
+````     
+
+````     
+import java.util.List;
+
+public class Document {
+
+    private List<Page> pages;
+
+    public void newPage(){
+        pages.add(new Page());
+    }
+}
+
+````     
