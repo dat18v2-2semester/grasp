@@ -5,7 +5,7 @@
 ## Grasp Principles we will work with
 * [Creator](creator.md)
 * [Information Expert](information_expert.md)
-* Low Coupling
+* [Low Coupling](low_coupling.md)
 * Controller
 * High Cohesion
 * Polymorphsm
