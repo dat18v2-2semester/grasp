@@ -49,36 +49,20 @@ public class Document {
 ## Example II
 > Who is responsible of creating the object?
 
-![](/img/creator_doc_page_1.png)
+![](/img/creator_car_driver_engine_1.png)
 
-![](/img/creator_doc_page_2.png)
+![](/img/creator_car_driver_engine_2.png)
 
 
 
 
 ````     
-public class Page {
 
-    private String content;
-
-    public void addContent(String content){
-        this.content = this.content + " " + content;
-    }
-}
 
 ````     
 
 ````     
-import java.util.List;
 
-public class Document {
-
-    private List<Page> pages;
-
-    public void newPage(){
-        pages.add(new Page());
-    }
-}
 
 ````     
 
