@@ -21,3 +21,5 @@
 * [Exploring general development principles](https://www.lynda.com/Java-tutorials/Exploring-general-development-principles/96949/106103-4.html)
 * [Introduction to GRASP principles](https://www.lynda.com/Java-tutorials/Introduction-GRASP-principles/96949/106106-4.html)
 
+## Exercises
+* [Exercise Grasp](https://docs.google.com/document/d/e/2PACX-1vTeAGLAqQDh5hGOoEiLcf6p-HS-bP8Tgffd4cWDXbZBJrktL5Vn56jZum0_7-VIOID_jy6BV355IY8-/pub)
