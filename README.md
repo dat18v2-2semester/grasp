@@ -6,7 +6,7 @@
 * [Creator](creator.md)
 * [Information Expert](information_expert.md)
 * [Low Coupling](low_coupling.md)
-* Controller
+* [Controller](controller.md)
 * High Cohesion
 * Polymorphsm
 * Pure Fabrication
