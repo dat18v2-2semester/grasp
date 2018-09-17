@@ -3,13 +3,14 @@
 
 
 ## Grasp Principles we will work with
-* Creator
+* [Creator](creator.md)
+* [Information Expert](information_expert.md)
 * Low Coupling
 * Controller
 * High Cohesion
 * Polymorphsm
 * Pure Fabrication
-* Information Expert
+
 
 ## Literature
 * Larman kap. 17-18
