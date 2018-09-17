@@ -12,9 +12,9 @@
 ## Example
 > Who is responsible of creating the object?
 
-![](/img/doc_page_1.png)
+![](/img/creator_doc_page_1.png)
 
-![](/img/doc_page_2.png)
+![](/img/creator_doc_page_2.png)
 
 
 
