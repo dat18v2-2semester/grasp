@@ -55,14 +55,32 @@ public class Document {
 
 
 
+````     
+public class Driver {
+    private String name;
+    private int skillLevel;
+}
 
 ````     
 
+````     
+public class Engine {  
+    private int cc;
+    private int hp;
+}
 
 ````     
 
 ````     
+public class Car {
+    private Engine engine;
+    private Driver driver;
 
+    public Car(Driver driver) {
+        this.engine = new Engine();
+        this.driver = driver;
+    }
+}
 
 ````     
-
+> Who is the creator of the Car?
