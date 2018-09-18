@@ -41,13 +41,24 @@ public interface Shape {
 ````  
 
 ````     
-public class Dog extends Creature {
+import static java.lang.Math.PI;
+public class Circle implements Shape {
+    private double radius;
+
+    public Circle(double radius) {
+        this.radius = radius;
+    }
+
     @Override
-    public void respondToAttack(){ 
-        System.out.println("Im the Dog, im being attacked");
+    public double area() {
+        return PI * radius * radius;
+    }
+
+    @Override
+    public double perimeter() {
+        return PI * 2 * radius;
     }
 }
-
 ````     
 
 ````     
