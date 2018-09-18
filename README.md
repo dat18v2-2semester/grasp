@@ -8,8 +8,7 @@
 * [Low Coupling](low_coupling.md)
 * [Controller](controller.md)
 * [High Cohesion](high_cohesion.md)
-* Polymorphsm
-* Pure Fabrication
+* [Polymorphsm](polymorphism.md)
 
 
 ## Literature
