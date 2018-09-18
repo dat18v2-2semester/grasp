@@ -6,5 +6,5 @@
 ## High or Low Cohesion?
 ![](img/high.png)
 
-
+## Where to put the methods?
 ![](img/highII.png)
