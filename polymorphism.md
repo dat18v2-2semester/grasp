@@ -34,10 +34,9 @@ public class Cat extends Creature{
 ## Interfaces
 
 ````     
-public class Creature {
-    public void respondToAttack(){
-        System.out.println("Im the Creature, im being attacked");
-    }
+public interface Shape {
+    public double area();
+    public double perimeter();
 }
 ````  
 
