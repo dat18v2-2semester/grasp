@@ -5,3 +5,6 @@
 
 ## High or Low Cohesion?
 ![](img/high.png)
+
+
+![](img/highII.png)
