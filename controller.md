@@ -1,5 +1,5 @@
 # Conttroller
 
-![](controllerI.png)
-![](controllerII.png)
-![](controllerIII.png)
+![](img/controllerI.png)
+![](img/controllerII.png)
+![](img/controllerIII.png)
