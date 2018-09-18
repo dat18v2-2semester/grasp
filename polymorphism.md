@@ -62,11 +62,44 @@ public class Circle implements Shape {
 ````     
 
 ````     
-public class Cat extends Creature{
+public class Square implements Shape {
+    private double side;
+
+    public Square(double side) {
+        this.side = side;
+    }
+
     @Override
-    public void respondToAttack(){
-        System.out.println("Im the Cat, im being attacked");
+    public double area() {
+        return side * side;
+    }
+
+    @Override
+    public double perimeter() {
+        return 4 * side;
     }
 }
+````     
 
+````     
+import static java.lang.Math.sqrt;
+public class Triangle implements Shape {
+    private double a, b, c;
+
+    public Triangle(double a, double b, double c) {
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+
+    @Override
+    public double area() {
+        return sqrt((a + b - c) * (a - b + c) * (-a + b + c) * (a + b + c)) / 4.0;
+    }
+
+    @Override
+    public double perimeter() {
+        return a + b + c;
+    }
+}
 ```` 
